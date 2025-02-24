@@ -5,7 +5,6 @@ load_dotenv()
 
 token = os.getenv('GO_TOKEN')
 
-
 import requests
 
 # Replace 'YOUR_API_TOKEN' with your actual API token

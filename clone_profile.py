@@ -4,7 +4,6 @@ import requests
 
 load_dotenv()
 
-
 # Set up your variables
 profile_id = os.getenv('GO_PROFILE_ID')  # Replace with your profile ID
 api_token = os.getenv('GO_TOKEN')
